@@ -1,4 +1,6 @@
 # Realm-Rush
+
+Ссылка на GDD - https://drive.google.com/drive/folders/1XgTZrgTAwkL7x-uKkxHzpYPLcP07pQzo?usp=sharing
  
 ![image](https://github.com/user-attachments/assets/e8e3ad85-ff7b-4f01-a2ac-c3042d56343c)
 
